@@ -27,6 +27,16 @@
     mvn clean install
     ```
 
+4. **Настройте конфигурацию аккаунта papergames.io:**
+
+    Откройте файл `C:\Users\Hackron\Documents\servletTrain\WebAi\src\main\resources\config.properties` и введите данные от вашего аккаунта papergames.io:
+
+    ```properties
+    username=ваш_ник
+    email=ваша_почта
+    password=ваш_пароль
+    ```
+
 ## Запуск Проекта
 
 После успешной сборки проекта, выполните следующие шаги для запуска:
